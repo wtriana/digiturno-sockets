@@ -1,0 +1,18 @@
+{
+    "ultimo": 14,
+    "hoy": 30,
+    "tickets": [],
+    "ultimos4": [{
+        "numero": 14,
+        "escritorio": "WTriana"
+    }, {
+        "numero": 13,
+        "escritorio": "Jkgomez"
+    }, {
+        "numero": 12,
+        "escritorio": "SLgomez"
+    }, {
+        "numero": 11,
+        "escritorio": "WTriana"
+    }]
+}

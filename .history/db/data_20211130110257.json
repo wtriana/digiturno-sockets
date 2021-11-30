@@ -1,0 +1,24 @@
+{
+    "ultimo": 6,
+    "hoy": 30,
+    "tickets": [{
+        "numero": 2,
+        "escritorio": null
+    }, {
+        "numero": 3,
+        "escritorio": null
+    }, {
+        "numero": 4,
+        "escritorio": null
+    }, {
+        "numero": 5,
+        "escritorio": null
+    }, {
+        "numero": 6,
+        "escritorio": null
+    }],
+    "ultimos4": [{
+        "numero": 1,
+        "escritorio": "Asesor 1"
+    }]
+}

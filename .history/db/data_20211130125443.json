@@ -1,0 +1,42 @@
+{
+    "ultimo": 15,
+    "hoy": 30,
+    "tickets": [{
+        "numero": 8,
+        "escritorio": null
+    }, {
+        "numero": 9,
+        "escritorio": null
+    }, {
+        "numero": 10,
+        "escritorio": null
+    }, {
+        "numero": 11,
+        "escritorio": null
+    }, {
+        "numero": 12,
+        "escritorio": null
+    }, {
+        "numero": 13,
+        "escritorio": null
+    }, {
+        "numero": 14,
+        "escritorio": null
+    }, {
+        "numero": 15,
+        "escritorio": null
+    }],
+    "ultimos4": [{
+        "numero": 7,
+        "escritorio": "SLgomez"
+    }, {
+        "numero": 6,
+        "escritorio": "Jkgomez"
+    }, {
+        "numero": 5,
+        "escritorio": "WTriana"
+    }, {
+        "numero": 4,
+        "escritorio": "SLgomez"
+    }]
+}

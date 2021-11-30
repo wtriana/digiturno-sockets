@@ -1,0 +1,33 @@
+{
+    "ultimo": 12,
+    "hoy": 30,
+    "tickets": [{
+        "numero": 8,
+        "escritorio": null
+    }, {
+        "numero": 9,
+        "escritorio": null
+    }, {
+        "numero": 10,
+        "escritorio": null
+    }, {
+        "numero": 11,
+        "escritorio": null
+    }, {
+        "numero": 12,
+        "escritorio": null
+    }],
+    "ultimos4": [{
+        "numero": 7,
+        "escritorio": "Asesor 1"
+    }, {
+        "numero": 6,
+        "escritorio": "Asesor 1"
+    }, {
+        "numero": 5,
+        "escritorio": "Asesor 1"
+    }, {
+        "numero": 4,
+        "escritorio": "Asesor 1"
+    }]
+}

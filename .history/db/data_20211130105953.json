@@ -1,0 +1,9 @@
+{
+    "ultimo": 1,
+    "hoy": 30,
+    "tickets": [{
+        "numero": 1,
+        "escritorio": null
+    }],
+    "ultimos4": []
+}
